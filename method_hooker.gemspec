@@ -6,8 +6,8 @@ docs_page = "https://github.com/khotta/method_hooker"
 Gem::Specification.new do |spec|
   spec.name                  = "method_hooker"
   spec.version               = "1.0.0"
-  spec.summary               = %q{Handle the ANSI color sequences.}
-  spec.description           = %q{This library for handling the ANSI color sequence.}
+  spec.summary               = %q{Hook the method call}
+  spec.description           = %q{Hook the method call}
   spec.homepage              = docs_page
   spec.authors               = ["nyanko"]
   spec.email                 = ["nyanko@dammy"]
