@@ -1,6 +1,5 @@
 # method_hooker
-# @autor: Kazuya Hotta (nyanko)
-#
+# @autor: Kazuya Hotta
 
 class Class
     @@has_pre_method   = false
