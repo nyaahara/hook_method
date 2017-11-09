@@ -5,7 +5,7 @@ docs_page = "https://github.com/nyaahara/hook_method"
 
 Gem::Specification.new do |spec|
   spec.name                  = "hook_method"
-  spec.version               = "1.0.2"
+  spec.version               = "1.0.3"
   spec.summary               = %q{Hook the method call}
   spec.description           = %q{Hook the method call}
   spec.homepage              = docs_page
